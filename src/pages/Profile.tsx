@@ -117,11 +117,9 @@ const Profile = () => {
                 About Me
               </h4>
               <p className="mt-4.5">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Pellentesque posuere fermentum urna, eu condimentum mauris
-                tempus ut. Donec fermentum blandit aliquet. Etiam dictum dapibus
-                ultricies. Sed vel aliquet libero. Nunc a augue fermentum,
-                pharetra ligula sed, aliquam lacus.
+              Programming Enthusiast and results-driven web developer.
+ Proficient in multiple programming languages and dedicated to staying updated with emerging technologies.
+ Eager to contribute to dynamic projects that allow for continuous learning .
               </p>
             </div>
 
@@ -188,7 +186,7 @@ const Profile = () => {
                   </svg>
                 </Link>
                 <Link
-                  to="#"
+                  to="https://www.linkedin.com/in/shikha-singh-604960258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKKlryp2LTZGGkJ%2BHTyFVBA%3D%3D"
                   className="hover:text-primary"
                   aria-label="social-icon"
                 >
